@@ -1,0 +1,49 @@
+,Mom,Treatment,Elevation,Coll_date,Successful,Partial,No.Hatch,Partial + Success,Percent Success,Decimal_success,Notes,Treatment_numeric,Elevation_numeric,Coll_date_numeric,Mom_numeric
+1,Higher Zone Summer 9,Control,Higher,Summer,6,3,3,9,75%,0.75,,0,1,0,1
+2,Higher Zone Summer 11,Control,Higher,Summer,3,7,2,10,83%,0.83,,0,1,0,2
+3,Higher Zone Summer 12,Control,Higher,Summer,5,6,1,11,92%,0.92,,0,1,0,3
+4,Higher Zone Summer 13,Control,Higher,Summer,1,10,1,11,92%,0.92,,0,1,0,4
+5,Lower Zone Summer 2,Control,Lower,Summer,5,3,4,8,62%,0.62,,0,0,0,13
+6,Lower Zone Summer 3,Control,Lower,Summer,1,10,1,11,92%,0.92,,0,0,0,14
+7,Lower Zone Summer 5,Control,Lower,Summer,2,3,7,5,45%,0.45,,0,0,0,15
+8,Lower Zone Summer 7,Control,Lower,Summer,5,4,3,9,75%,0.75,,0,0,0,16
+9,Higher Zone Summer 9,Heat Shock,Higher,Summer,8,3,1,11,92%,0.92,,1,1,0,1
+10,Higher Zone Summer 11,Heat Shock,Higher,Summer,6,3,3,9,75%,0.75,,1,1,0,2
+11,Higher Zone Summer 12,Heat Shock,Higher,Summer,5,7,0,12,100%,1,,1,1,0,3
+12,Higher Zone Summer 13,Heat Shock,Higher,Summer,3,6,3,9,75%,0.75,,1,1,0,4
+13,Lower Zone Summer 2,Heat Shock,Lower,Summer,6,4,2,10,83%,0.83,,1,0,0,13
+14,Lower Zone Summer 3,Heat Shock,Lower,Summer,5,5,2,10,83%,0.83,,1,0,0,14
+15,Lower Zone Summer 5,Heat Shock,Lower,Summer,4,8,0,12,100%,1,,1,0,0,15
+16,Lower Zone Summer 7,Heat Shock,Lower,Summer,5,4,3,9,75%,0.75,,1,0,0,16
+,Higher Zone Winter  1,Control ,Higher,Winter,,,2,10,83%,0.83,,0,1,1,5
+,Higher Zone Winter  2,Control ,Higher,Winter,,,6,6,50%,0.5,,0,1,1,6
+,Higher Zone Winter  3,Control ,Higher,Winter,,,2,10,83%,0.83,,0,1,1,7
+,Higher Zone Winter 4,Control ,Higher,Winter,,,1,11,92%,0.92,,0,1,1,8
+,Higher Zone Winter  5,Control ,Higher,Winter,,,1,11,92%,0.92,,0,1,1,9
+,Higher Zone Winter  6,Control ,Higher,Winter,,,5,7,58%,0.58,,0,1,1,10
+,Higher Zone Winter  7,Control ,Higher,Winter,,,2,10,83%,0.83,,0,1,1,11
+,Higher Zone Winter  8,Control ,Higher,Winter,,,6,4,40%,0.4,NOTE: n=10,0,1,1,12
+,Lower Zone Winter  1,Control ,Lower,Winter,,,2,9,82%,0.82,NOTE: n=11,0,0,1,17
+,Lower Zone Winter  2,Control ,Lower,Winter,,,0,12,100%,1,,0,0,1,18
+,Lower Zone Winter  3,Control ,Lower,Winter,,,3,9,75%,0.75,,0,0,1,19
+,Lower Zone Winter  4,Control ,Lower,Winter,,,0,12,100%,1,,0,0,1,20
+,Lower Zone Winter  5,Control ,Lower,Winter,,,1,11,92%,0.92,,0,0,1,21
+,Lower Zone Winter  6,Control ,Lower,Winter,,,0,12,100%,1,,0,0,1,22
+,Lower Zone Winter  7,Control ,Lower,Winter,,,0,12,100%,1,,0,0,1,23
+,Lower Zone Winter  8,Control ,Lower,Winter,,,1,11,92%,0.92,,0,0,1,24
+,Higher Zone Winter  1,Heat Shock,Higher,Winter,,,7,5,42%,0.42,,1,1,1,5
+,Higher Zone Winter  2,Heat Shock,Higher,Winter,,,6,6,50%,0.5,,1,1,1,6
+,Higher Zone Winter  3,Heat Shock,Higher,Winter,,,2,10,83%,0.83,,1,1,1,7
+,Higher Zone Winter 4,Heat Shock,Higher,Winter,,,3,9,75%,0.75,,1,1,1,8
+,Higher Zone Winter  5,Heat Shock,Higher,Winter,,,4,8,67%,0.67,,1,1,1,9
+,Higher Zone Winter  6,Heat Shock,Higher,Winter,,,2,10,83%,0.83,,1,1,1,10
+,Higher Zone Winter  7,Heat Shock,Higher,Winter,,,2,10,83%,0.83,,1,1,1,11
+,Higher Zone Winter  8,Heat Shock,Higher,Winter,,,2,9,82%,0.82,NOTE: n=11,1,1,1,12
+,Lower Zone Winter  1,Heat Shock,Lower,Winter,,,2,10,83%,0.83,,1,0,1,17
+,Lower Zone Winter  2,Heat Shock,Lower,Winter,,,0,12,100%,1,,1,0,1,18
+,Lower Zone Winter  3,Heat Shock,Lower,Winter,,,1,11,92%,0.92,,1,0,1,19
+,Lower Zone Winter  4,Heat Shock,Lower,Winter,,,1,11,92%,0.92,,1,0,1,20
+,Lower Zone Winter  5,Heat Shock,Lower,Winter,,,3,9,75%,0.75,,1,0,1,21
+,Lower Zone Winter  6,Heat Shock,Lower,Winter,,,1,11,92%,0.92,,1,0,1,22
+,Lower Zone Winter  7,Heat Shock,Lower,Winter,,,2,10,83%,0.83,,1,0,1,23
+,Lower Zone Winter  8,Heat Shock,Lower,Winter,,,2,10,83%,0.83,,1,0,1,24
