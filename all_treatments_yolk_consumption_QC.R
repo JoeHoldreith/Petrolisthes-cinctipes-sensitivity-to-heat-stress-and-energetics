@@ -10,8 +10,8 @@ library(readxl)
 
 
 #read in winter data
-winter_yolk_raw_data = read.csv("C:/Users/joemh/Desktop/1_12_Exp_Processed_Tifs/1_12_Exp/master_winter_yolk_raw_data.csv")
-
+#winter_yolk_raw_data = read.csv("C:/Users/joemh/Desktop/1_12_Exp_Processed_Tifs/1_12_Exp/master_winter_yolk_raw_data.csv")
+winter_yolk_raw_data = read.csv("C:/Users/joemh/Desktop/manuscript analysis/raw_data/master_winter_yolk_raw_data.csv")
 
 #add a column for summer or winter exp
 winter_yolk_raw_data$Exp = "Winter"
@@ -21,8 +21,11 @@ winter_yolk_raw_data = filter(winter_yolk_raw_data, embryo_area != "4399939")
 winter_yolk_raw_data = filter(winter_yolk_raw_data, yolk_embryo_ratio < 1)
 
 #read in summer data
-summer_control = read.csv("C:/Users/joemh/Desktop/all_tifs/control_tifs/Master_control_yolk_data.csv")
-summer_heatshock = read.csv("C:/Users/joemh/Desktop/all_tifs/HS_tifs/Master_HS_yolk_data.csv")
+#summer_control = read.csv("C:/Users/joemh/Desktop/all_tifs/control_tifs/Master_control_yolk_data.csv")
+#summer_heatshock = read.csv("C:/Users/joemh/Desktop/all_tifs/HS_tifs/Master_HS_yolk_data.csv")
+summer_control = read.csv("C:/Users/joemh/Desktop/manuscript analysis/raw_data/Master_summer_control_yolk_data.csv")
+summer_heatshock = read.csv("C:/Users/joemh/Desktop/manuscript analysis/raw_data/Master_summer_HS_yolk_data.csv")
+
 
 #remove pictures of dead embryos that got photographed
 summer_control = summer_control |> filter(X.1 != 225)
